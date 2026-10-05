@@ -3,4 +3,4 @@
 echo "All variables passed to script: $@"
 echo "Number of variables passed: $#"
 echo "First variable: $1"
-cho "Script name: $0"
+echo "Script name: $0"
