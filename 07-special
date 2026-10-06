@@ -1,0 +1,4 @@
+#!/bin/bash
+
+### Speical chars ###
+echo "All variables passed to script: $@"
